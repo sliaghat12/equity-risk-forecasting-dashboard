@@ -74,7 +74,13 @@ The project produces a portfolio risk monitoring dashboard including:
 
 These visualizations help identify periods of elevated risk, downside exposure, and asset performance dynamics.
 
----
+## Power BI Dashboard
+
+![Power BI Dashboard](powerbi_dashboard.png)
+
+## Tableau Dashboard
+
+![Tableau Dashboard](tableau_dashboard.png)
 
 ## How to Run the Project
 
