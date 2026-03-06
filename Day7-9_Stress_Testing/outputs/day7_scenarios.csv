@@ -1,0 +1,6 @@
+scenario,shock_return,vol_multiplier
+Mild shock (-3%),-0.03,1.0
+Moderate shock (-5%),-0.05,1.0
+Severe shock (-10%),-0.1,1.0
+Crash shock (-20%),-0.2,1.0
+Volatility spike (sigma x 2),,2.0

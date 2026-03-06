@@ -1,0 +1,6 @@
+scenario,stressed_return,stressed_loss,volatility_used
+Mild shock (-3%),-0.03,0.03,0.011260972711019605
+Moderate shock (-5%),-0.05,0.05,0.011260972711019605
+Severe shock (-10%),-0.1,0.1,0.011260972711019605
+Crash shock (-20%),-0.2,0.2,0.011260972711019605
+Volatility spike (sigma x2),0.001574304580688477,-0.001574304580688477,0.02252194542203921
