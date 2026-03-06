@@ -6,6 +6,12 @@ This project analyzes equity portfolio performance and risk using Python, SQL, P
 The goal of the project is to demonstrate how financial data can be transformed into actionable insights for portfolio monitoring and risk management.
 
 ---
+## Project Presentation
+
+A short walkthrough of the portfolio risk forecasting project, including the modeling approach, risk metrics, and dashboard insights.
+
+[Download the presentation](Presentation.pptx)
+
 
 ## Key Features
 
