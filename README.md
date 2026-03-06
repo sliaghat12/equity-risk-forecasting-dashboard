@@ -76,11 +76,12 @@ These visualizations help identify periods of elevated risk, downside exposure, 
 
 ## Power BI Dashboard
 
-![Power BI Dashboard](powerbi_dashboard.png)
+![Power BI Dashboard](PowerBI_Dashboard.png)
 
 ## Tableau Dashboard
 
-![Tableau Dashboard](tableau_dashboard.png)
+![Tableau Dashboard](Tableau_Dashboard.png)
+
 
 ## How to Run the Project
 
