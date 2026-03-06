@@ -10,7 +10,7 @@ The goal of the project is to demonstrate how financial data can be transformed 
 
 A short walkthrough of the portfolio risk forecasting project, including the modeling approach, risk metrics, and dashboard insights.
 
-[Download the presentation](Presentation.pptx)
+[Download the presentation](Project - Feb. 2026.pptx)
 
 
 ## Key Features
